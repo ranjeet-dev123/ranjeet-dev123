@@ -4,7 +4,9 @@
 ☁️ **Aspiring Cloud & DevOps Engineer**
 📍 **India**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ranjeet-dev123\&color=blue\&style=for-the-badge)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ranjeet-dev123&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -52,99 +54,164 @@
 
 ## 📌 Featured Projects
 
-| Project                                                                                  | Description                                                | Tech                    |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------- |
-| [College Management System](https://github.com/ranjeet-dev123/College-Management-System) | Full-stack college system with QR attendance & PDF reports | PHP, MySQL              |
-| [RANJEET-AI](https://github.com/ranjeet-dev123/RANJEET-AI)                               | AI chatbot with local LLM                                  | Python, FastAPI, Ollama |
-| [Portfolio Website](https://github.com/ranjeet-dev123/my-portfolio)                      | Personal portfolio                                         | HTML, CSS, JavaScript   |
-| [Python Weather App](https://github.com/ranjeet-dev123/python-weather-app)               | CLI weather application using API                          | Python                  |
+| Project                                                                                  | Description                                                           | Tech                    |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------- |
+| [College Management System](https://github.com/ranjeet-dev123/College-Management-System) | Full-stack college management system with QR attendance & PDF reports | PHP, MySQL              |
+| [RANJEET-AI](https://github.com/ranjeet-dev123/RANJEET-AI)                               | Personal AI chatbot with local LLM support                            | Python, FastAPI, Ollama |
+| [Portfolio Website](https://github.com/ranjeet-dev123/my-portfolio)                      | Personal developer portfolio website                                  | HTML, CSS, JavaScript   |
+| [Python Weather App](https://github.com/ranjeet-dev123/python-weather-app)               | CLI weather application using an API                                  | Python                  |
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjeet-dev123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ranjeet's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-dev123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api?username=ranjeet-dev123&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"
+alt="Ranjeet's GitHub Stats"
+/>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet-dev123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjeet-dev123&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-dev123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Top Languages"
+/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ranjeet-dev123/ranjeet-dev123/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet-dev123&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjeet-dev123&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ranjeet-dev123&theme=tokyo-night&hide_border=true"
+alt="GitHub Contribution Activity"
+/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/ranjeet-dev123/ranjeet-dev123/output/github-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=ranjeet-dev123&theme=tokyonight&no-frame=true&row=1&column=7"
+alt="GitHub Trophies"
+/>
+
+</p>
+
+---
+
+# 🎯 Current Learning Path
+
+```text
+AWS
+ │
+ ├── Cloud Fundamentals
+ │
+ ├── IAM
+ │
+ ├── EC2
+ │
+ ├── S3
+ │
+ └── VPC
+       │
+       ▼
+     Linux
+       │
+       ▼
+     Docker
+       │
+       ▼
+   Kubernetes
+       │
+       ▼
+    Terraform
+       │
+       ▼
+     CI/CD
+       │
+       ▼
+ Cloud & DevOps Projects
+```
+
+---
+
+# 📚 Currently Learning
+
+* ☁️ **AWS**
+* 🐧 **Linux**
+* 🐳 **Docker**
+* ☸️ **Kubernetes**
+* 🏗️ **Terraform**
+* 🔄 **GitHub Actions**
+* 🌐 **Networking**
+* 🔐 **Cloud Security**
+* 🚀 **CI/CD**
+* 📦 **Infrastructure as Code**
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ranjeet-a1b87837a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:ranjitkumar123bind@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
-
----
-
-## 🎯 Current Focus
-
-```text
-Cloud Computing
-      ↓
-AWS
-      ↓
-Linux + Networking
-      ↓
-Docker
-      ↓
-Kubernetes
-      ↓
-Terraform
-      ↓
-CI/CD
-      ↓
-Cloud & DevOps Projects
-```
 
 ---
 
 ## ⭐ GitHub
 
-I'm continuously learning, building projects, and improving my development and cloud skills.
+I believe in **learning by building**.
+
+I'm continuously improving my programming, cloud, and DevOps skills by creating real-world projects and experimenting with new technologies.
 
 ⭐️ From [ranjeet-dev123](https://github.com/ranjeet-dev123)
